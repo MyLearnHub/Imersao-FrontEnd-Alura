@@ -1,15 +1,22 @@
 <div align="center">
   <img height="100px" src="https://iconsverse.vercel.app/icons?i=alura" alt="Logo da Alura" />
-  <h3 align="center">Imersão React - Alura</h3>
+  <h3 align="center">Imersão Front-End - Alura</h3>
 </div>
 
 # 🔍Visão Geral
-  Essa imersão oferecida pela Alura, introduz os conceitos de HTML e CSS voltados ao Front-End. Desenvolvendo um projeto prático de um clone do Spotify usando React + JavaScript.
+  Esta imersão da Alura apresenta uma introdução abrangente aos conceitos de HTML e CSS aplicados ao desenvolvimento Front-End. A imersão explora boas práticas de estruturação e estilização de páginas web, ajudando a aprimorar as habilidades na criação de interfaces modernas e responsivas. Além disso, a experiência é reforçada com um projeto prático, no qual é desenvolvido um clone do Spotify utilizando React e JavaScript, permitindo a aplicação dos conhecimentos adquiridos de forma dinâmica e interativa.
 
 <div align="center">
   <h3> 💻Tecnologias Aprendidas</h3>
   <img src="https://iconsverse.vercel.app/icons?i=html,css,js,nodejs,react" alt="Tecnologias Aprendidas">
 </div>
+
+# 📚Conteúdo Abordado 
+  * Revisão: HTML, CSS e JS na Prática
+  * Estilo Avançado e Posicionamento: Transformando Layouts
+  * Layout Flexbox, Pseudo-classes e Responsividade em CSS
+  * CSS Grid, Media Queries e Manipulação do DOM com JavaScript
+  * Frameworks e Eficiência: Introdução ao React e Angular
 
 # 🏅Certificado
 <img src="assets/certificado.jpg" alt="Certificado do Curso">
@@ -29,7 +36,7 @@
   - <a href="https://legacy.reactjs.org/docs/getting-started.html">React</a>
 
 ### 📎Curso
-  - <a href="https://www.alura.com.br/promocao/imersao-front-end?utm_source=influenciadores&utm_medium=imersao-front-end&utm_campaign=alwayson">Imersão React</a>
+  - <a href="https://cursos.alura.com.br/imersao">Imersão Front-End</a>
 
 # 📬Contato
 <div align="center"> 
